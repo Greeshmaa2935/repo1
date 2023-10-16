@@ -1,2 +1,2 @@
-# repo1
+# GPREC_remote_branchname
 github repository
